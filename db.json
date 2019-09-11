@@ -1,4 +1,4 @@
- [ 
+{ "users" : [
    {
     "name": "Max",
     "email": "maximilian@whatever.ch",
@@ -20,3 +20,6 @@
     "userId": 104
   }
 ]
+
+
+}
