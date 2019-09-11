@@ -18,6 +18,11 @@
     "name": "Test",
     "email": "Test@whatever.ch",
     "userId": 104
+  },
+  {
+    "name": "TestUser",
+    "email": "TestUser@whatever.ch",
+    "userId": 105
   }
 ]
 
