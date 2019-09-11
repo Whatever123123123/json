@@ -1,0 +1,22 @@
+ [ 
+   {
+    "name": "Max",
+    "email": "maximilian@whatever.ch",
+    "userId": 101
+  },
+  {
+    "name": "Sarah",
+    "email": "Sarah@whatever.ch",
+    "userId": 102
+  },
+  {
+    "name": "Peter",
+    "email": "Peter@whatever.ch",
+    "userId": 103
+  },
+  {
+    "name": "Test",
+    "email": "Test@whatever.ch",
+    "userId": 104
+  }
+]
